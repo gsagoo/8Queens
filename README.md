@@ -1,5 +1,5 @@
 # 8queens.cpp
-The C++ file produces an executable that calculates the positions of N-Queens on a N by N chessboard such that they are not attacking. 
+The C++ file produces an executable that calculates the positions of N-Queens on a N by N chessboard such the Queens are not attacking each other. 
 
 For example 
 
