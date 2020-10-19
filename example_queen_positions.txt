@@ -1,0 +1,20 @@
+4 Queens on an 4 by 4 chessboard.
+Reflected and rotationally-symmetric solutions are included below.
+
+Solution 1
+ _ _ _ _
+|_|Q|_|_|
+|_|_|_|Q|
+|Q|_|_|_|
+|_|_|Q|_|
+
+
+
+Solution 2
+ _ _ _ _
+|_|_|Q|_|
+|Q|_|_|_|
+|_|_|_|Q|
+|_|Q|_|_|
+
+
